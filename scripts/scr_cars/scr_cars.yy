@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_cars",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_cars",
+  "parent":{
+    "name":"PixelDrift",
+    "path":"PixelDrift.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

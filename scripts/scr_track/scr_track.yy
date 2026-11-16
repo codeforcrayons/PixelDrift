@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_track",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_track",
+  "parent":{
+    "name":"PixelDrift",
+    "path":"PixelDrift.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
